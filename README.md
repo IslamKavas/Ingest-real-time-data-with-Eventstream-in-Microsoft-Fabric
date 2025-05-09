@@ -18,3 +18,14 @@ This project demonstrates **real-time data streaming** using Microsoft Fabric's 
 - Troubleshooting common Eventstream errors (e.g., data source connectivity).  
 
 ## 📂 Project Structure  
+
+## 🌟 Future Goals  
+- Integrate **Azure Functions** for serverless data processing.  
+- Explore anomaly detection in real-time streams.  
+
+---
+
+🔧 **Technologies Used:**  
+- Microsoft Fabric Eventstream  
+- Power BI  
+- Azure Data Sources 
